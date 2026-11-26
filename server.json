@@ -5,6 +5,7 @@
   "description": "Read-only LXV Wine catalog, events and visit info for AI assistants. Cannot order or book.",
   "version": "1.0.1",
   "websiteUrl": "https://www.lxvwine.com/ai/",
+  "repository": { "url": "https://github.com/mittalk/lxv-mcp", "source": "github" },
   "icons": [
     { "src": "https://www.lxvwine.com/wp-content/uploads/cropped-LXV-Logo-2026-192x192.webp", "mimeType": "image/webp", "sizes": ["192x192"] }
   ],
