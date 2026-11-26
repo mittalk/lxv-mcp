@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.lxvwine.www/public-read-only",
+  "title": "LXV Wine - public read-only",
+  "description": "Read-only LXV Wine catalog, events and visit info for AI assistants. Cannot order or book.",
+  "version": "1.0.1",
+  "websiteUrl": "https://www.lxvwine.com/ai/",
+  "icons": [
+    { "src": "https://www.lxvwine.com/wp-content/uploads/cropped-LXV-Logo-2026-192x192.webp", "mimeType": "image/webp", "sizes": ["192x192"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://www.lxvwine.com/mcp" }
+  ]
+}
